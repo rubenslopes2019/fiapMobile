@@ -1,1 +1,13 @@
-teste 2
+heider
+
+ GIT_SSL_NO_VERIFY=false git clone https://github.com/rubenslopes2019/fiapMobile.git
+
+
+web application
+
+cordoba - ionic. - gera tanto para android quanto para ios
+
+mini-app 
+
+api 21 - atende 90% dos device atuais
+
