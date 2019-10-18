@@ -12,4 +12,10 @@
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>
+
+    <style name="home_input">
+        <item name="android:background">@drawable/home_background</item>
+        <item name="android:textColor">@color/input_text_color</item>
+        <item name="android:textColorHint">@color/input_hint_text_color</item>
+    </style>
 </resources>
