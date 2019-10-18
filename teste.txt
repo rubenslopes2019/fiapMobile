@@ -11,3 +11,33 @@ mini-app
 
 api 21 - atende 90% dos device atuais
 
+
+manifest - declarações - o que o app vai utilizar, gps, internet, arquivos
+
+java-src
+
+res - ficam os recursos, e layout
+mipmap - icone da loja
+value - todos os valores
+gradle - os arquivos de compilação
+
+
+https://github.com/heiderlopes/placar_ping_pong
+
+imagem png no android ou vetor.
+
+
+        <activity android:name=".SplashActivity">
+            <intent-filter> - intenção
+
+
+constrain - não utiliza pixel  e sim dp - densidade independente de pixel.
+
+shift + shift
+
+var  - mutavel
+val - imultável
+
+para o fonte se usa SP - escala idenpendencia de pixel.
+
+ctrl+windows+alt+L --> formatação codigo
