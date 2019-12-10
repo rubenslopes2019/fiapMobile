@@ -1,6 +1,6 @@
 heider
 
-https://github.com/helderlopes
+https://github.com/heiderlopes?tab=repositories
 
  GIT_SSL_NO_VERIFY=false git clone https://github.com/rubenslopes2019/fiapMobile.git
 
@@ -43,3 +43,13 @@ val - imultável
 para o fonte se usa SP - escala idenpendencia de pixel.
 
 ctrl+windows+alt+L --> formatação codigo
+
+
+intent-filter - identifica a tela que vai abrir
+
+selecctor - seletor que vc inclui itens
+
+shift+shift ===>> realiza busca
+alt+enter - extract - concentra todo o texto
+
+

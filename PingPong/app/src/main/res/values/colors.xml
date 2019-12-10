@@ -7,4 +7,5 @@
     <color name="background_away">#16FAE8</color>
     <color name="input_text_color">#FFFFFF</color>
     <color name="input_hint_text_color">#FFEB3B</color>
+    <color name="button_text_color">#FFF</color>
 </resources>
