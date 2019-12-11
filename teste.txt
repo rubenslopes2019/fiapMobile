@@ -53,3 +53,9 @@ shift+shift ===>> realiza busca
 alt+enter - extract - concentra todo o texto
 
 
+botao direito, chain - horizontal chain - distribu
+uição
+
+view model é igual no android recuperar e enviar dados para a tela.
+
+
