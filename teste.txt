@@ -58,4 +58,24 @@ uição
 
 view model é igual no android recuperar e enviar dados para a tela.
 
+webservice - rest - retrofit
+
+
+call - promess
+
+{} objeto json
+[] lista
+
+alt+enter - cria função
+
+a tred principal não pode esperar mais de 5 segundos, roda em uma paralela enqueue
+
+
+usuario?.nome >> se caso vier nulo ele coloca um valor nulo sem dar crech no sistemas
+
+
+biblioteca do facebook - stetho
+
+chrome://inspect/#devices
+
 
